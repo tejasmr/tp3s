@@ -1,1 +1,1 @@
-# tp3s - Tezz Peer-to-Peer Protocol Server: Revolutionizing Decentralized Communication
+# tp3s - a Peer-to-Peer Protocol Server
